@@ -4,19 +4,14 @@
 ### Pertanyaan bisnis (5W + 1H)
 Aspek	Pertanyaan analisis
 
-What	Berapa proporsi ulasan positif, negatif, dan netral?
+1. What	  Berapa proporsi ulasan positif, negatif, dan netral?
+2. Who	  Bagaimana pengalaman pengguna tercermin dalam ulasan?
+3. Where  Aplikasi atau platform mana yang memiliki sentimen lebih baik, jika data mendukung perbandingan?
+4. When	  Bagaimana sentimen berubah dari waktu ke waktu?
+5. Why	  Apa keluhan atau apresiasi yang paling sering muncul?
+6. How	  Perbaikan layanan apa yang dapat diprioritaskan berdasarkan hasil analisis?
 
-Who	    Bagaimana pengalaman pengguna tercermin dalam ulasan?
-
-Where	Aplikasi atau platform mana yang memiliki sentimen lebih baik, jika data mendukung perbandingan?
-
-When	Bagaimana sentimen berubah dari waktu ke waktu?
-
-Why	    Apa keluhan atau apresiasi yang paling sering muncul?
-
-How	    Perbaikan layanan apa yang dapat diprioritaskan berdasarkan hasil analisis?
-
-Target akhirnya: menghasilkan dashboard yang membantu tim produk memprioritaskan perbaikan, misalnya proses pendaftaran, konsultasi dokter, pemesanan janji, atau stabilitas aplikasi.
+**Target akhirnya: menghasilkan dashboard yang membantu tim produk memprioritaskan perbaikan, misalnya proses pendaftaran, konsultasi dokter, pemesanan janji, atau stabilitas aplikasi.**
 
 Catatan: aspek layanan tersebut merupakan contoh kategori yang akan kita teliti, bukan kesimpulan sebelum data dianalisis.
 
